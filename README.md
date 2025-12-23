@@ -48,7 +48,7 @@ to full-stack web applications with Node.js and modern frameworks.
 ### 🌐 Connect With Me
 - 🌍 Portfolio: https://ajayaghimire.net  
 - 💼 LinkedIn: https://www.linkedin.com/in/ajaya-ghimire  
-- 📧 Email: admin@ajayaghimire.net  
+- 📧 Email: ghimireajaya9@gmail.com / admin@ajayaghimire.net  
 
 ---
 
