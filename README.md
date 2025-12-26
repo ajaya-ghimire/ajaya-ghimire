@@ -40,11 +40,10 @@ to full-stack web applications with Node.js and modern frameworks.
 </p>
 
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ajaya-ghimire&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ajaya-ghimire&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
 </p>
@@ -62,7 +61,6 @@ to full-stack web applications with Node.js and modern frameworks.
     alt="Top Languages"
   />
 </p>
-
 
 
 
