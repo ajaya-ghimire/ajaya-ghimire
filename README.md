@@ -36,26 +36,29 @@ to full-stack web applications with Node.js and modern frameworks.
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ajaya-ghimire&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ajaya-ghimire&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=ajaya-ghimire&theme=tokyonight&hide_border=true" 
-    height="165"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ajaya-ghimire&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaya-ghimire&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaya-ghimire&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
+
 
 
 ---
