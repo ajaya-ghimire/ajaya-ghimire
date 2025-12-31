@@ -26,7 +26,7 @@ to full-stack web applications with Node.js and modern frameworks.
 - **Ext2 File System (C++)**  
   Linux VDI parsing, inode traversal, and filesystem structures
 
-- **Ext2 File System (C++)**  
+- **Expense Manager (Web Application)**  
   Data visualization without external libraries, JavaScript application state management
   
 - **Express Book Ordering App**  
