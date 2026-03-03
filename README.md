@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajaya Ghimire</h1>
 
 <h3 align="center">
-Computer Science Student • Full-Stack Developer • Problem Solver
+Computer Science graduate • Mathematics minor • Certified in Data Analytics, YSU • Sailpoint
 </h3>
 
 <p align="center">
