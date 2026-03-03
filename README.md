@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Computer Science graduate • Mathematics minor • Certified in Data Analytics, YSU • Sailpoint
-  https://ajayaghimire.net/apps.html
+  Featured: https://ajayaghimire.net/apps.html
 </h3>
 
 <p align="center">
@@ -33,8 +33,19 @@ to full-stack web applications with Node.js and modern frameworks.
 - **Express Book Ordering App**  
   Node.js, Express, Handlebars, RESTful routing, dynamic data handling
 
+- Maze game
+  A* shortest path finding Maze game. Adaptive AI integrated.
+
 - **Unity 3D Puzzle Game**  
   C#, physics-based interactions, UI and gameplay logic
+
+- Shortest Path algorithm in C.
+  
+- PDF file copy system in C.
+  
+- Snake game in Java (Swing GUI)
+
+
 
 ---
 
