@@ -2,6 +2,7 @@
 
 <h3 align="center">
 Computer Science graduate • Mathematics minor • Certified in Data Analytics, YSU • Sailpoint
+  https://ajayaghimire.net/apps.html
 </h3>
 
 <p align="center">
