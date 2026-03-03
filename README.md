@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajaya Ghimire</h1>
 
 <h3 align="center">
-Computer Science graduate • Mathematics minor • Certified in Data Analytics, YSU • Sailpoint
+Computer Science graduate • Mathematics minor • Certified in Data Analytics, YSU • Sailpoint<p>
   Featured: https://ajayaghimire.net/apps.html
 </h3>
 
