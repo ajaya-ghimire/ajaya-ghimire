@@ -76,6 +76,12 @@ I am an Identity & Access Management Engineer with 5+ years of enterprise experi
 | 📄 **PDF File Copy System** | C | Low-level file I/O and binary data handling in C |
 | 🎮 **Unity 3D Puzzle Game** | C# · Unity | Physics-based interactions, UI and gameplay logic |
 | 🐍 **Snake Game** | Java · Swing GUI | Classic snake game with object-oriented design |
+| 🔐 **JML Automation Framework** | SailPoint IIQ · BeanShell · PowerShell | Automated Joiner/Mover/Leaver workflows with dynamic role assignment, manager approval chains, and auto de-provisioning on termination |
+| 👻 **Ghost Account Detector** | Python · Active Directory · REST API | Scans AD and SailPoint for dormant accounts post-termination; flags identities inactive 90+ days with detailed audit export |
+| 📋 **Access Certification Dashboard** | SailPoint ISC · JavaScript · REST | Custom campaign dashboard for quarterly access reviews with entitlement risk scoring, bulk decision support, and compliance reporting |
+| 🤖 **Non-Human Identity Registry** | SailPoint ISC · SCIM · Python | Centralized NHIM governance — service accounts, API keys, machine identities — with lifecycle tracking, ownership mapping, and expiry alerts |
+| 🔑 **Privileged Access Monitor** | SailPoint IIQ · Splunk · PowerShell | Real-time PIM/PAM monitoring with Splunk integration; detects privilege escalation, off-hours admin logins, and bulk data access anomalies |
+| 🏗️ **RBAC Role Mining Tool** | Python · SQL · SailPoint IIQ | Analyzes entitlement patterns across 10,000+ identities to suggest birthright roles, detect role creep, and enforce least-privilege access |
 
 ---
 
