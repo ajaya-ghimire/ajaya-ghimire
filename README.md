@@ -14,7 +14,7 @@
 
   <div class="badges">
     <a href="https://ajaya001.blogspot.com"><img src="https://img.shields.io/badge/Blog-ajaya001.blogspot.com-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog" /></a>
-    <a href="mailto:ghimireajaya9@gmail.com"><img src="https://img.shields.io/badge/Email-ajayaghimire812%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:ghimireajaya9@gmail.com"><img src="https://img.shields.io/badge/Email-ghimireajaya9%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/ajaya-ghimire"><img src="https://komarev.com/ghpvc/?username=ajaya-ghimire&style=flat-square&color=58a6ff" alt="Profile Views" /></a>
   </div>
 </div>
