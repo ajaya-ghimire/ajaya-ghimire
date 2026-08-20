@@ -10,15 +10,11 @@
   <h1>Ajaya Ghimire</h1>
   <h3>Aspiring Software Developer · Recent CS Grad · Builder of Things</h3>
 
-  <a href="https://ajayaghimire.net">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&pause=1000&center=true&vCenter=true&width=700&lines=B.S.+Computer+Science+%40+Youngstown+State;Learning+by+building%2C+one+project+at+a+time;JavaScript+%7C+Python+%7C+Java+%7C+C%2B%2B;Open+to+Junior+Developer+roles" alt="Typing SVG" />
   </a>
 
   <div class="badges">
-    <a href="https://ajayaghimire.net"><img src="https://img.shields.io/badge/Portfolio-ajayaghimire.net-58a6ff?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/ghimire-ajaya24"><img src="https://img.shields.io/badge/LinkedIn-ghimire--ajaya24-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://ajaya001.blogspot.com"><img src="https://img.shields.io/badge/Blog-ajaya001.blogspot.com-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog" /></a>
-    <a href="mailto:ajayaghimire812@gmail.com"><img src="https://img.shields.io/badge/Email-ajayaghimire812%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:ghimireajaya9@gmail.com"><img src="https://img.shields.io/badge/Email-ajayaghimire812%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/ajaya-ghimire"><img src="https://komarev.com/ghpvc/?username=ajaya-ghimire&style=flat-square&color=58a6ff" alt="Profile Views" /></a>
   </div>
 </div>
