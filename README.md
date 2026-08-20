@@ -2,59 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>Ajaya Ghimire — README</title>
-<style>
-  :root {
-    --bg: #0d1117;
-    --card: #161b22;
-    --border: #30363d;
-    --text: #c9d1d9;
-    --muted: #8b949e;
-    --accent: #58a6ff;
-  }
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 32px 20px 80px;
-    line-height: 1.6;
-  }
-  .center { text-align: center; }
-  h1 { font-size: 2em; margin-bottom: 4px; }
-  h2 {
-    border-bottom: 1px solid var(--border);
-    padding-bottom: 6px;
-    margin-top: 40px;
-  }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  .badges img { margin: 4px; vertical-align: middle; }
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 16px 0;
-    font-size: 0.95em;
-  }
-  th, td {
-    border: 1px solid var(--border);
-    padding: 8px 12px;
-    text-align: left;
-    vertical-align: top;
-  }
-  th { background: var(--card); color: var(--accent); }
-  tr:nth-child(even) { background: #12161c; }
-  hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
-  .tagline { color: var(--muted); font-style: italic; margin-top: 40px; }
-  .tagline strong { color: var(--text); }
-  code {
-    background: var(--card);
-    padding: 2px 6px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-  }
-</style>
+
 </head>
 <body>
 
