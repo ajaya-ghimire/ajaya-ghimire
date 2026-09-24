@@ -8,7 +8,7 @@
 
 <div class="center">
   <h1>Ajaya Ghimire</h1>
-  <h3>Aspiring Software Developer · Recent CS Grad · Builder of Things</h3>
+  <h3>Aspiring IAM Expert and Software Developer · Builder of Things</h3>
 
   </a>
 
