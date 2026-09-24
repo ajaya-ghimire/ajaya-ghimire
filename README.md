@@ -140,7 +140,7 @@
 <hr />
 
 <div class="center tagline">
-  <p>Fresh out of school, not out of ideas.</p>
+  <p>Fresh commits, never out of ideas.</p>
   <p><strong>Still learning — always building.</strong></p>
 </div>
 
