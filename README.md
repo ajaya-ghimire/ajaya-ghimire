@@ -8,7 +8,7 @@
 
 <div class="center">
   <h1>Ajaya Ghimire</h1>
-  <h3>Aspiring IAM Expert and Software Developer · Builder of Things</h3>
+  <h3>IAM Professional | Software Developer by Hobby · Builder of Things</h3>
 
   </a>
 
@@ -26,7 +26,7 @@
   B.S. Computer Science · Youngstown State University · Minor in Mathematics
 </p>
 <p>
-  Computer Science graduate, IAM professional and software developer as a hobby. I like figuring out how
+  Computer Science graduate, IAM professional and software developer by hobby. I like figuring out how
   things work under the hood — from parsing filesystems in C++ to building small web apps in Node.js and React —
   and I learn best by building. Comfortable moving between low-level systems work and full-stack web development.
   Currently looking for junior developer opportunities where I can keep learning and contribute from day one.
